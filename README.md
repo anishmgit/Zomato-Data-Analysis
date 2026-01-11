@@ -20,8 +20,8 @@ strategies for Zomato.
 - Jupyter Notebook
 
 ## Project Files
-- `Zomato_Analysis.ipynb` – Main analysis notebook
-- `data/zomato.csv` – Dataset used for analysis
+- `Zomato Project.ipynb` – Main analysis notebook
+- `Zomato data. csv` – Dataset used for analysis
 
 ## Conclusion
 The insights from this analysis help understand customer behavior and
